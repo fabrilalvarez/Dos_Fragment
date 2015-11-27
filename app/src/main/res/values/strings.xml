@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dos Fragment Mismo Activity</string>
+    <string name="text_fragment_a">Fragment A VISTA</string>
+    <string name="text_fragment_b">Fragment B VISTA</string>
+</resources>
